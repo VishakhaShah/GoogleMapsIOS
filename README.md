@@ -1,12 +1,12 @@
 Google Maps SDK for iOS Sample: Adding a Map with a Marker
 ==========================================================
 
-This sample goes hand in hand with a tutorial for the Google Maps SDK for iOS:
-[Adding a Map with a Marker](https://developers.google.com/maps/documentation/ios-sdk/map-with-marker).
-Follow the tutorial for a quick guide to using the SDK.
+This sample goes for the Google Maps SDK for iOS:
 
-License
--------
+<img src="Screenshot%202020-02-07%20at%2001.03.09.png" width="250" height="400">
+<img src="Screenshot%202020-02-07%20at%2001.03.25.png" width="300" height="400">
 
-Please refer to the [LICENSE](https://github.com/googlemaps/maps-sdk-for-ios-samples/blob/master/LICENSE.txt) 
-at the root of this repo.
+
+
+
+
